@@ -1,0 +1,16 @@
+textarea {
+  height: 500px;
+  width: 100%;
+}
+
+.rows {
+	display: flex;
+	justify-content: space-around;
+}
+
+.columns {
+	display: flex;
+	flex-direction: column;
+	width: 47%;
+  margin: 1.5%;
+}
